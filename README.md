@@ -1,4 +1,4 @@
-# Diplom_2
+
 
 ## Задание 2: API-автотесты для Stellar Burgers
 
